@@ -1,3 +1,4 @@
-              - name: Coffee Diary
-                uses: ridemountainpig/coffee-diary@v1.0.0
-            
+"2024-10-06": {
+        "bean-type": "ARABICA",
+        "origin": "PERU",
+        "flavor": "Woody, but not burnt. Slight sweetness, perhaps the grind setting of 13-E was not the best"
