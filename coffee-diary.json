@@ -1,1 +1,3 @@
-
+              - name: Coffee Diary
+                uses: ridemountainpig/coffee-diary@v1.0.0
+            
